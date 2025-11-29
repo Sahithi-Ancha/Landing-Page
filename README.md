@@ -1,4 +1,3 @@
-# Landing-Page
 # Responsive Landing Page – Built with Next.js, Tailwind CSS & Vercel v0
 
 This project is a fully responsive landing page created as part of an assignment.  
@@ -53,23 +52,16 @@ Later, the code was refined manually in VS Code.
 
 ## 🌍 Live Demo
 
-🔗 **Live Link (Vercel):**  
-_Add your deployed link here_
-
+🔗 **Live Link (Vercel):**
+https://landing-page-one-self-10.vercel.app/
 ---
 
 ## 📦 GitHub Repository
 
 🔗 **Repository Link:**  
-_Add your GitHub repo link here_
-
+https://github.com/Sahithi-Ancha/Landing-Page
 ---
 
-## 📷 Preview
-
-_Add a screenshot of your landing page here (optional)._
-
----
 
 ## 📌 How to Run Locally
 
